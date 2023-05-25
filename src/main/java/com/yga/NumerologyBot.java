@@ -344,6 +344,6 @@ public class NumerologyBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "Введите свой токен";
+        return "5656643323:AAE8bEZ5kI1wfSf-dNAdHqqjU_2WQXFIjhM";
     }
 }
